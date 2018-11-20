@@ -1,0 +1,21 @@
+Biosim
+======
+
+This biosim-project is a model of the ecosystem of Rossumisland.
+The ecosystem is characterized by five different landscape types:
+   - Jungle
+   - Savannah
+   - Desert
+   - Mountain
+   - Ocean
+
+The whole island is surrounded by ocean, and only two species of animals live
+there, herbivores and carnivores.
+
+This simulation of the ecosystem of Rossumisland is given as a group project in
+INF200 at NMBU, january 2016.
+
+Contents
+--------
+    - biosim: The biosim Python package
+    - examples: some examples for using the package
