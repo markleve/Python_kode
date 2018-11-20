@@ -11,10 +11,12 @@ This biosim-project is a model of the ecosystem of Rossumisland. The ecosystem i
 
 The whole island is surrounded by ocean, and only two species of animals live there, herbivores and carnivores.
 
-The "BioSim_project_description.pdf" file described the project task and guidelines for the project. To run the program, run the "check_sim.py" file. A simulation of herbivores and carnivores living together on the island will then appear. An example of the simulation if found in the "simulation_example.mp4" file.
-
 Contents
 --------
+    - BioSim_project_description.pdf: a file describing the project task and guidelines
+    - check_sim.py: main file to run the program. A simulation of herbivores and carnivores living together on the island will then appear
+    - simulation_example.mp4: an example of the simulation appearing when running the main file
+    
     - biosim: the biosim Python package
-    - doc: project documentation. To access documentation online, click on the "index.html" file.
+    - doc: project documentation. To access documentation online, click on the "index.html" file
     - examples: more examples for using the package
