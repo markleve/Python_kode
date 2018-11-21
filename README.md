@@ -9,3 +9,7 @@ Main project assignment from the course INF200 at NMBU. It was comleted as a pai
 ```
 Mandatory assignments form machine learning course dat200 at NMBU.
 ```
+### machine learning MNIST data
+```
+Created neural networks using python and tensorflow. I made the code while having the course INF5860 at UiO.
+```
