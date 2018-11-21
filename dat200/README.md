@@ -11,7 +11,7 @@ made by Kobe Bryant, a former basketball player. Possible outcomes are 0 (missed
 The task is to use machine learning algorithms to predict which passengers survived the Titanic
 shipwreck.
 
-### Using the program
+## Using the program
 The programs are made in Jupyter Notebook, which is started in terminal by
 ```
 jupyter notebook
